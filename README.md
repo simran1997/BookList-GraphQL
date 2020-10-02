@@ -1,8 +1,8 @@
 # BookList-GraphQL-frontend
 - A application developed using ReactJS
 - In this application use can add a book by filling details like book name, genre, and selecting author name.
-- Backend is deployed at https://us-central1-clone-a5e8b.cloudfunctions.net/api
-- The frontend of the app is hossted on firebase at https://clone-a5e8b.web.app/
+- Backend is deployed at https://simran-book-list.herokuapp.com/graphql
+- The frontend of the app is hossted on firebase at https://readinglist-fddf0.web.app/
 
 
 ## Available Scripts
